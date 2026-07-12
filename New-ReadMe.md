@@ -76,17 +76,10 @@ A growing collection of technical articles covering:
 
 ## 📈 Analytics Projects
 
-- 📊 Bank Loan Analysis
-- ☕ Coffee Shop Sales Analysis
-- 🍕 Pizza Sales Analysis
-- 🗳️ India General Elections Analysis
-
-Repositories:
-
-- Bank Loan Analysis
-- Coffee Shop Sales Analysis
-- Pizza Sales Analysis
-- India General Elections Analysis
+- 📊 [Bank Loan Analysis](https://github.com/ArjunSingh-9/Bank-Loan-Analysis)
+- ☕ [Coffee Shop Sales Analysis](https://github.com/ArjunSingh-9/Coffee-Shop-Sales-Analysis)
+- 🍕 [Pizza Sales Analysis](https://github.com/ArjunSingh-9/Pizza-Sales-Analysis)
+- 🗳️ [India General Elections Analysis](https://github.com/ArjunSingh-9/India-General-Elections-2024-Analysis)
 
 ---
 
