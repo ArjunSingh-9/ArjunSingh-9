@@ -70,7 +70,7 @@ A growing collection of technical articles covering:
 - Python & SQL
 
 ➡️ Portfolio Link:
-(Technical Writing Repository)[https://github.com/ArjunSingh-9/Technical-Writing-Portfolio]
+[Technical Writing Repository](https://github.com/ArjunSingh-9/Technical-Writing-Portfolio)
 
 ---
 
