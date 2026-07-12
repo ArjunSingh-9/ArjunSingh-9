@@ -54,7 +54,7 @@ An end-to-end research and analytics project covering:
 - Stakeholder Recommendations
 
 ➡️ Repository:
-`[Add Repository Link]`
+[Gen-Z Career Aspirations Analysis Repository](https://github.com/ArjunSingh-9/Analysis-of-Gen-Z-s-Career-Aspirations)
 
 ---
 
