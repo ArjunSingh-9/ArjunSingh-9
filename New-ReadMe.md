@@ -69,8 +69,8 @@ A growing collection of technical articles covering:
 - Data Analytics
 - Python & SQL
 
-➡️ Portfolio:
-`[Coming Soon]`
+➡️ Portfolio Link:
+(Technical Writing Repository)[https://github.com/ArjunSingh-9/Technical-Writing-Portfolio]
 
 ---
 
