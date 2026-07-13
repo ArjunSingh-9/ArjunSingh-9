@@ -24,7 +24,7 @@ I enjoy work that requires careful human judgment and contributes to building re
 - 📊 Analytical Problem Solving
 
 ---
-
+<!--
 # 📂 Featured Work
 
 ## 🔍 AI Evaluation Portfolio *(Coming Soon)*
@@ -38,7 +38,7 @@ Representative evaluation samples demonstrating:
 - Evidence-Based Evaluation
 
 ---
-
+-->
 ## 📊 Featured Research Project
 
 ### Understanding the Career Aspirations of Gen-Z
@@ -58,7 +58,7 @@ An end-to-end research and analytics project covering:
 
 ---
 
-## ✍ Technical Writing Portfolio *(In Development)*
+## ✍ Technical Writing Portfolio
 
 A growing collection of technical articles covering:
 
