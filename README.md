@@ -142,10 +142,10 @@ Guru Gobind Singh Indraprastha University
 
 📧 Email:
 **arjun.saini7@gmail.com**
-
+<!--
 💼 LinkedIn:
 https://www.linkedin.com/in/arjun16/
-
+-->
 📄 Resume: [Professional Profile](https://github.com/ArjunSingh-9/ArjunSingh-9/blob/main/Arjun_Saini_Professional_Profile.pdf)
 
 ---
