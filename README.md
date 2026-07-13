@@ -146,8 +146,7 @@ Guru Gobind Singh Indraprastha University
 💼 LinkedIn:
 https://www.linkedin.com/in/arjun16/
 
-📄 Resume:
-*(Upload later as PDF and add the link here.)*
+📄 Resume: [Professional Profile](https://github.com/ArjunSingh-9/ArjunSingh-9/blob/main/Arjun_Saini_Professional_Profile.pdf)
 
 ---
 
