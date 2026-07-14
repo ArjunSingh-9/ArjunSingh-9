@@ -14,7 +14,7 @@ I enjoy work that requires careful human judgment and contributes to building re
 
 ---
 
-# 👨‍💻 Professional Focus
+## 👨‍💻 Professional Focus
 
 - 🤖 AI Evaluation
 - 🔍 Research & Verification
@@ -25,9 +25,9 @@ I enjoy work that requires careful human judgment and contributes to building re
 
 ---
 <!--
-# 📂 Featured Work
+## 📂 Featured Work
 
-## 🔍 AI Evaluation Portfolio *(Coming Soon)*
+### 🔍 AI Evaluation Portfolio *(Coming Soon)*
 
 Representative evaluation samples demonstrating:
 
@@ -83,7 +83,7 @@ A growing collection of technical articles covering:
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Technical Skills
 
 ### AI Evaluation
 
@@ -119,7 +119,7 @@ A growing collection of technical articles covering:
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 **Bachelor of Technology (B.Tech.)**
 
@@ -129,7 +129,7 @@ Guru Gobind Singh Indraprastha University
 
 ---
 
-# 🌱 Currently Building
+## 🌱 Currently Building
 
 - 🤖 AI Evaluation Portfolio
 - ✍ Technical Writing Portfolio
@@ -138,7 +138,7 @@ Guru Gobind Singh Indraprastha University
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email:
 **arjun.saini7@gmail.com**
