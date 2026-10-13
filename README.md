@@ -12,10 +12,10 @@ My approach combines **technical research, hands-on verification, structured rea
 
 My portfolio demonstrates four different technical-writing roles:
 
-- **Teach** — [Get and Verify an Hourly Weather Forecast with Postman](PORTFOLIO_ARTICLE_1_LINK)
-- **Document** — [How to Build a Simple Issue-Tracking Report with the GitHub REST API](PORTFOLIO_ARTICLE_2_LINK)
-- **Explain** — [How an HTTP Request Travels: Follow One Exchange from Client to Server and Back](PORTFOLIO_ARTICLE_3_LINK)
-- **Troubleshoot** — [Why Did My API Request Fail? A Diagnostic Workflow for 400, 401, 403, and 404 Responses](PORTFOLIO_ARTICLE_4_LINK)
+- **Teach** — [Get and Verify an Hourly Weather Forecast with Postman](Technical-Writing-Portfolio/articles/01-get-and-verify-hourly-weather-forecast-with-postman/Article-01.md)
+- **Document** — [How to Build a Simple Issue-Tracking Report with the GitHub REST API](articles/02-github-rest-api-issue-tracking-report/Article-02.md)
+- **Explain** — [How an HTTP Request Travels: Follow One Exchange from Client to Server and Back](articles/03-how-an-http-request-travels/Article-03.md)
+- **Troubleshoot** — [Why Did My API Request Fail? A Diagnostic Workflow for 400, 401, 403, and 404 Responses](articles/04-why-did-my-api-request-fail/Article-04.md)
 
 ➡️ **[View the complete Technical Writing Portfolio](https://github.com/ArjunSingh-9/Technical-Writing-Portfolio)**
 
