@@ -12,12 +12,31 @@ My approach combines **technical research, hands-on verification, structured rea
 
 My portfolio demonstrates four different technical-writing roles:
 
+- **Teach** — [Get and Verify an Hourly Weather Forecast with Postman](https://arjunsingh-9.github.io/Technical-Writing-Portfolio/articles/01-get-and-verify-hourly-weather-forecast-with-postman/Article-01.html)
+- **Document** — [How to Build a Simple Issue-Tracking Report with the GitHub REST API](https://arjunsingh-9.github.io/Technical-Writing-Portfolio/articles/02-github-rest-api-issue-tracking-report/Article-02.html)
+- **Explain** — [How an HTTP Request Travels—Follow One Exchange from Client to Server and Back](https://arjunsingh-9.github.io/Technical-Writing-Portfolio/articles/03-how-an-http-request-travels/Article-03.html)
+- **Troubleshoot** — [Why Did My API Request Fail? A Diagnostic Workflow for 400, 401, 403, and 404 Responses](https://arjunsingh-9.github.io/Technical-Writing-Portfolio/articles/04-why-did-my-api-request-fail/Article-04.html)
+
+➡️ [**View the live Technical Writing Portfolio**](https://arjunsingh-9.github.io/Technical-Writing-Portfolio/)
+
+[Browse the source repository on GitHub](https://github.com/ArjunSingh-9/Technical-Writing-Portfolio)
+
+<!--
+
+## ✍️ Technical Writing Portfolio
+
+### Selected Technical Work
+
+My portfolio demonstrates four different technical-writing roles:
+
 - **Teach** — [Get and Verify an Hourly Weather Forecast with Postman](https://github.com/ArjunSingh-9/Technical-Writing-Portfolio/blob/main/articles/01-get-and-verify-hourly-weather-forecast-with-postman/Article-01.md)
 - **Document** — [How to Build a Simple Issue-Tracking Report with the GitHub REST API](https://github.com/ArjunSingh-9/Technical-Writing-Portfolio/blob/main/articles/02-github-rest-api-issue-tracking-report/Article-02.md)
 - **Explain** — [How an HTTP Request Travels: Follow One Exchange from Client to Server and Back](https://github.com/ArjunSingh-9/Technical-Writing-Portfolio/blob/main/articles/03-how-an-http-request-travels/Article-03.md)
 - **Troubleshoot** — [Why Did My API Request Fail? A Diagnostic Workflow for 400, 401, 403, and 404 Responses](https://github.com/ArjunSingh-9/Technical-Writing-Portfolio/blob/main/articles/04-why-did-my-api-request-fail/Article-04.md)
 
 ➡️ **[View the complete Technical Writing Portfolio](https://github.com/ArjunSingh-9/Technical-Writing-Portfolio)**
+
+-->
 
 ## 🔎 Secondary Professional Focus
 
