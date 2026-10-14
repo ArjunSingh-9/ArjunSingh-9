@@ -19,7 +19,8 @@ My portfolio demonstrates four different technical-writing roles:
 
 ➡️ [**View the live Technical Writing Portfolio**](https://arjunsingh-9.github.io/Technical-Writing-Portfolio/)
 
-[Browse the source repository on GitHub](https://github.com/ArjunSingh-9/Technical-Writing-Portfolio)
+> [Browse the source repository on GitHub](https://github.com/ArjunSingh-9/Technical-Writing-Portfolio)
+>
 
 <!--
 
